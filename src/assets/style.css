@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #000330 !important;
+    background: linear-gradient(300deg, rgba(0, 3, 48, 1) 0%, rgba(55, 73, 175, 1) 100%) !important;
+}
+
+ui-block-color{
+    
+}
