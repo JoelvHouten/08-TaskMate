@@ -6,7 +6,7 @@ html, body {
 
 body{
     background: #000330 !important;
-    background: linear-gradient(300deg, rgba(0, 3, 48, 1) 0%, rgba(55, 73, 175, 1) 100%) !important;
+    background: linear-gradient(300deg, rgba(3, 10, 33) 0%, rgba(24, 41, 112, 1) 100%) !important;
 }
 
 ui-block-color{

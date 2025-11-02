@@ -17,6 +17,7 @@
     "lint": "run-s lint:*"
   },
   "dependencies": {
+    "bootstrap": "^5.3.8",
     "vue": "^3.5.22"
   },
   "devDependencies": {
