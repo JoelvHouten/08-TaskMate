@@ -5,10 +5,6 @@ html, body {
 }
 
 body{
-    background: #000330 !important;
-    background: linear-gradient(300deg, rgba(3, 10, 33) 0%, rgba(24, 41, 112, 1) 100%) !important;
-}
-
-ui-block-color{
-    
+  	background: radial-gradient(circle at top left, #0f172a 0%, #020617 100%);
+  	color: #e2e8f0;
 }
