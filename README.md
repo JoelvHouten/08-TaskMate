@@ -1,4 +1,12 @@
-# ToDo App
+# TaskMate ToDo app
+
+Blok 2 - Opdracht 1
+
+# Summary
+
+Simple ToDo app made with Vue framework, typescript
+
+# Installation
 
 This template should help get you started developing with Vue 3 in Vite.
 
