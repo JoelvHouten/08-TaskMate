@@ -45,4 +45,13 @@ const emit = defineEmits<{
     color: #e2e8f0;
     border: 1px solid rgba(255, 255, 255, 0.1);
 }
+
+.text-muted{
+    color: gray !important;
+}
+
+.form-check-input:checked{
+    background-color: #6bb000 !important;
+    border-color: green !important; 
+}
 </style>
